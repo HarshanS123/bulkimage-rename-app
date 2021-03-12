@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bulkimage-rename-app", "ConsoleApp1\bulkimage-rename-app.csproj", "{A0F25CDC-C454-4B61-81F5-4A35D2783D5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bulkimage-rename-app", "bulkimage-rename-app\bulkimage-rename-app.csproj", "{D60EC2E5-BCCC-4D33-B9B5-5B85B97586AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A0F25CDC-C454-4B61-81F5-4A35D2783D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0F25CDC-C454-4B61-81F5-4A35D2783D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0F25CDC-C454-4B61-81F5-4A35D2783D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0F25CDC-C454-4B61-81F5-4A35D2783D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60EC2E5-BCCC-4D33-B9B5-5B85B97586AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60EC2E5-BCCC-4D33-B9B5-5B85B97586AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60EC2E5-BCCC-4D33-B9B5-5B85B97586AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60EC2E5-BCCC-4D33-B9B5-5B85B97586AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A15F77D5-9452-4C13-8111-948F22209F76}
+		SolutionGuid = {A6E9607A-29DC-4EBA-8D00-AA0AC4D0A7EF}
 	EndGlobalSection
 EndGlobal
